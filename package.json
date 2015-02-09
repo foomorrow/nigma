@@ -1,0 +1,16 @@
+{
+  "name": "nigma",
+  "version": "0.0.1",
+  "description": "a static website generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "static",
+    "website",
+    "generator"
+  ],
+  "author": "foomorrow",
+  "license": "ISC"
+}
