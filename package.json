@@ -12,5 +12,11 @@
     "generator"
   ],
   "author": "foomorrow",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "dependencies": {
+    "stream-combiner": "^0.2.2"
+  }
 }

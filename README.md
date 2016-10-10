@@ -1,7 +1,12 @@
-Nigma
+Hyperpack
 ----
-a static website generator
+Bundle Tool for Web Development
 
-coming soon !
+## Features
 
-
+* manifest
+* bundle from html, css, javascript
+* serve
+* i18n
+* css-in-js
+* es6 module loader
